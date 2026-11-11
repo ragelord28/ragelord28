@@ -12,6 +12,8 @@ Web3 builder based in India. I find new chains with strong liquidity, build NFT 
 
 **[Indian Option Market](https://github.com/ragelord28/indian-option-market)** — A Python research and decision-support desk for the Indian options market. It connects to Upstox for market data, includes opening-range and other options strategies, a backtester, paper trading, and a Streamlit dashboard. It does not place orders on its own.
 
+**[chain-scout](https://github.com/ragelord28/chain-scout)** — An open-source Python CLI that ranks blockchains by liquidity momentum (TVL growth, DEX volume, stablecoin inflow, new protocols) from free public DefiLlama data. [Daily report](https://ragelord28.github.io/chain-scout/).
+
 ## Stack
 
 Python, Solidity, JavaScript, and HTML/CSS. Trading tools use the Upstox API, Streamlit, pandas, and pytest. NFT work includes Solidity contracts and browser-based generative work.
